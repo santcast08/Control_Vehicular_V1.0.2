@@ -1,0 +1,42 @@
+.css_vehiculo_placa_label { }
+.css_vehiculo_placa_line { }
+.css_vehiculo_placa_obj { }
+.css_vehiculo_matricula_label { }
+.css_vehiculo_matricula_line { }
+.css_vehiculo_matricula_obj { }
+.css_vehiculo_marca_label { }
+.css_vehiculo_marca_line { }
+.css_vehiculo_marca_obj { }
+.css_vehiculo_modelo_label { }
+.css_vehiculo_modelo_line { }
+.css_vehiculo_modelo_obj { }
+.css_vehiculo_color_label { }
+.css_vehiculo_color_line { }
+.css_vehiculo_color_obj { }
+.css_vehiculo_chasis_label { }
+.css_vehiculo_chasis_line { }
+.css_vehiculo_chasis_obj { }
+.css_vehiculo_numero_motor_label { }
+.css_vehiculo_numero_motor_line { }
+.css_vehiculo_numero_motor_obj { }
+.css_vehiculo_km_galon_label { }
+.css_vehiculo_km_galon_line {text-align:left;}
+.css_vehiculo_km_galon_obj {text-align:left;}
+.css_vehiculo_km_inicial_label {text-align:;}
+.css_vehiculo_km_inicial_line {text-align:left;}
+.css_vehiculo_km_inicial_obj {text-align:left;}
+.css_vehiculo_tipo_combustible_label { }
+.css_vehiculo_tipo_combustible_line { }
+.css_vehiculo_tipo_combustible_obj { }
+.css_vehiculo_estado_label { }
+.css_vehiculo_estado_line { }
+.css_vehiculo_estado_obj { }
+.css_vehiculo_fechaasignacion_label { }
+.css_vehiculo_fechaasignacion_line { }
+.css_vehiculo_fechaasignacion_obj { }
+.css_usuario_idusuario_label { }
+.css_usuario_idusuario_line {text-align:left;}
+.css_usuario_idusuario_obj {text-align:left;}
+.css_detallle_mantenimientos_label { }
+.css_detallle_mantenimientos_line { }
+.css_detallle_mantenimientos_obj { }
