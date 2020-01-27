@@ -1,0 +1,18 @@
+.css_idusuario_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_idusuario_grid_line {vertical-align: middle;text-align: left;}
+.css_idvehiculo_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_idvehiculo_grid_line {vertical-align: middle;text-align: left;}
+.css_movilizacion_funcionario_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_movilizacion_funcionario_grid_line {vertical-align: middle;text-align: left;}
+.css_movilizacion_fecha_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_movilizacion_fecha_grid_line {vertical-align: top;text-align: center;}
+.css_movilizacion_hora_salida_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_movilizacion_hora_salida_grid_line {vertical-align: top;text-align: center;}
+.css_movilizacion_hora_llegada_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_movilizacion_hora_llegada_grid_line {vertical-align: top;text-align: center;}
+.css_imprimir_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_imprimir_grid_line {text-align: center;}
+.css_id_movilizacion_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_id_movilizacion_grid_line {vertical-align: top;text-align: right;}
+.css_movilizacion_ruta_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_movilizacion_ruta_grid_line {vertical-align: top;text-align: left;}
