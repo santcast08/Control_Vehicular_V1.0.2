@@ -1,0 +1,16 @@
+.css_usuario_cedula_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_usuario_cedula_grid_line {vertical-align: top;text-align: right;}
+.css_usuario_apellidos_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_usuario_apellidos_grid_line {vertical-align: top;text-align: left;}
+.css_usuario_nombres_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_usuario_nombres_grid_line {vertical-align: top;text-align: left;}
+.css_usuario_correo_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_usuario_correo_grid_line {vertical-align: top;text-align: left;}
+.css_usuario_cargo_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_usuario_cargo_grid_line {vertical-align: top;text-align: left;}
+.css_usuario_dependencia_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_usuario_dependencia_grid_line {vertical-align: top;text-align: left;}
+.css_usuario_estado_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_usuario_estado_grid_line {vertical-align: top;text-align: left;}
+.css_idusuario_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_idusuario_grid_line {vertical-align: top;text-align: right;}
