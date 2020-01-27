@@ -1,0 +1,18 @@
+.css_idusuario_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_idusuario_grid_line {vertical-align: middle;text-align: right;}
+.css_idvehiculo_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_idvehiculo_grid_line {vertical-align: middle;text-align: right;}
+.css_mantenimiento_fecha_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_mantenimiento_fecha_grid_line {vertical-align: top;text-align: center;}
+.css_mantenimiento_kilometraje_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_mantenimiento_kilometraje_grid_line {vertical-align: top;text-align: right;}
+.css_idtipo_mantenimiento_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_idtipo_mantenimiento_grid_line {vertical-align: top;text-align: right;}
+.css_idmantenimiento_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_idmantenimiento_grid_line {vertical-align: top;text-align: right;}
+.css_mantenimiento_tipo_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_mantenimiento_tipo_grid_line {vertical-align: top;text-align: right;}
+.css_mantenimiento_observacion_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_mantenimiento_observacion_grid_line {vertical-align: top;text-align: right;}
+.css_mantenimiento_estado_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_mantenimiento_estado_grid_line {vertical-align: top;text-align: right;}
