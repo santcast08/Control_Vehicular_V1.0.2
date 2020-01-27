@@ -1,0 +1,51 @@
+.css_id_movilizacion_label {text-align:;}
+.css_id_movilizacion_line {text-align:left;}
+.css_id_movilizacion_obj {text-align:left;}
+.css_idvehiculo_label { }
+.css_idvehiculo_line {text-align:left;}
+.css_idvehiculo_obj {text-align:left;}
+.css_idusuario_label { }
+.css_idusuario_line {text-align:left;}
+.css_idusuario_obj {text-align:left;}
+.css_movilizacion_funcionario_label { }
+.css_movilizacion_funcionario_line { }
+.css_movilizacion_funcionario_obj { }
+.css_movilizacion_fecha_label { }
+.css_movilizacion_fecha_line { }
+.css_movilizacion_fecha_obj { }
+.css_movilizacion_hora_salida_label { }
+.css_movilizacion_hora_salida_line { }
+.css_movilizacion_hora_salida_obj { }
+.css_movilizacion_hora_llegada_label { }
+.css_movilizacion_hora_llegada_line { }
+.css_movilizacion_hora_llegada_obj { }
+.css_movilizacion_km_salida_label { }
+.css_movilizacion_km_salida_line {text-align:left;}
+.css_movilizacion_km_salida_obj {text-align:left;}
+.css_movilizacion_km_llegada_label { }
+.css_movilizacion_km_llegada_line {text-align:left;}
+.css_movilizacion_km_llegada_obj {text-align:left;}
+.css_movilizacion_costo_galon_label { }
+.css_movilizacion_costo_galon_line {text-align:left;}
+.css_movilizacion_costo_galon_obj {text-align:left;}
+.css_movilizacion_cant_km_adicional_label { }
+.css_movilizacion_cant_km_adicional_line {text-align:left;}
+.css_movilizacion_cant_km_adicional_obj {text-align:left;}
+.css_movilizacion_total_km_recorrido_label { }
+.css_movilizacion_total_km_recorrido_line {text-align:left;}
+.css_movilizacion_total_km_recorrido_obj {text-align:left;}
+.css_movilizacion_recorrido_vehiculo_label { }
+.css_movilizacion_recorrido_vehiculo_line {text-align:left;}
+.css_movilizacion_recorrido_vehiculo_obj {text-align:left;}
+.css_movilizacion_excedente_label { }
+.css_movilizacion_excedente_line {text-align:left;}
+.css_movilizacion_excedente_obj {text-align:left;}
+.css_movilizacion_total_galones_label { }
+.css_movilizacion_total_galones_line {text-align:left;}
+.css_movilizacion_total_galones_obj {text-align:left;}
+.css_movilizacion_total_combustible_label { }
+.css_movilizacion_total_combustible_line {text-align:left;}
+.css_movilizacion_total_combustible_obj {text-align:left;}
+.css_detalle_movilizacion_label { }
+.css_detalle_movilizacion_line { }
+.css_detalle_movilizacion_obj { }
